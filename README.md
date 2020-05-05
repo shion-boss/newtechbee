@@ -1,4 +1,0 @@
-"# technext" 
-"# texhnext" 
-"# texhnext" 
-"# newtechbee" 
